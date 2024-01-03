@@ -10,5 +10,5 @@ If you want this library to support other coins, please open an issue :)
 
 Please find respective documentation for each coin:
 
-- [![npm](https://img.shields.io/npm/v/@crypto-hex-decoder-2/bnb.svg)](https://www.npmjs.com/package/@crypto-hex-decoder-2/bnb) [@crypto-hex-decoder/bnb](./packages/bnb)
-- [![npm](https://img.shields.io/npm/v/@crypto-hex-decoder-2/utxo.svg)](https://www.npmjs.com/package/@crypto-hex-decoder-2/utxo) [@crypto-hex-decoder/utxo](./packages/utxo)
+- [![npm](https://img.shields.io/npm/v/@zanost/bnb.svg)](https://www.npmjs.com/package/@zanost/bnb) [@crypto-hex-decoder/bnb](./packages/bnb)
+- [![npm](https://img.shields.io/npm/v/@zanost/utxo.svg)](https://www.npmjs.com/package/@zanost/utxo) [@crypto-hex-decoder/utxo](./packages/utxo)

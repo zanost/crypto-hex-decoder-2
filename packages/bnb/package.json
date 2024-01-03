@@ -1,5 +1,5 @@
 {
-  "name": "@crypto-hex-decoder-2/bnb",
+  "name": "@zanost/bnb",
   "version": "2.1.0",
   "description": "Binance mainnet transaction hex decoder.",
   "main": "index.js",

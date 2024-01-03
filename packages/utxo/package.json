@@ -1,5 +1,5 @@
 {
-  "name": "@crypto-hex-decoder-2/utxo",
+  "name": "@zanost/utxo",
   "version": "2.0.0",
   "description": "Transaction hex decoder for Bitcoin and other UTXO-based crypto",
   "main": "index.js",
