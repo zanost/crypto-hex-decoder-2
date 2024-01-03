@@ -1,5 +1,5 @@
 {
-  "name": "@crypto-hex-decoder/utxo",
+  "name": "@crypto-hex-decoder-2/utxo",
   "version": "2.0.0",
   "description": "Transaction hex decoder for Bitcoin and other UTXO-based crypto",
   "main": "index.js",
@@ -38,10 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antoncoding/crypto-hex-decoder.git"
+    "url": "git+https://github.com/zanost/crypto-hex-decoder.git"
   },
   "bugs": {
-    "url": "https://github.com/antoncoding/crypto-hex-decoder/issues"
+    "url": "https://github.com/zanost/crypto-hex-decoder/issues"
   },
-  "homepage": "https://github.com/antoncoding/crypto-hex-decoder/packages/utxo#readme"
+  "homepage": "https://github.com/zanost/crypto-hex-decoder/packages/utxo#readme"
 }

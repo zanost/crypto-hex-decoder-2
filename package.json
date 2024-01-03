@@ -1,5 +1,5 @@
 {
-  "name": "crypto-hex-decoder",
+  "name": "crypto-hex-decoder-2",
   "version": "2.0.0",
   "description": "Raw transaction decoder for different blockchains",
   "author": "anton",
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antoncoding/raw-transaction-hex-decoder.git"
+    "url": "git+https://github.com/zanost/crypto-hex-decoder-2"
   },
   "bugs": {
-    "url": "https://github.com/antoncoding/raw-transaction-hex-decoder/issues"
+    "url": "https://github.com/zanost/crypto-hex-decoder-2/issues"
   },
-  "homepage": "https://github.com/antoncoding/raw-transaction-hex-decoder#readme"
+  "homepage": "https://github.com/zanost/crypto-hex-decoder-2#readme"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@crypto-hex-decoder/bnb",
+  "name": "@crypto-hex-decoder-2/bnb",
   "version": "2.1.0",
   "description": "Binance mainnet transaction hex decoder.",
   "main": "index.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antoncoding/crypto-hex-decoder.git"
+    "url": "git+https://github.com/zanost/crypto-hex-decoder-2"
   },
   "bugs": {
-    "url": "https://github.com/antoncoding/crypto-hex-decoder/issues"
+    "url": "https://github.com/zanost/crypto-hex-decoder/issues"
   },
-  "homepage": "https://github.com/antoncoding/crypto-hex-decoder/packages/bnb#readme"
+  "homepage": "https://github.com/zanost/crypto-hex-decoder/packages/bnb#readme"
 }
